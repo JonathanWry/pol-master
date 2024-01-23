@@ -1,0 +1,605 @@
+[INFO] edu.gmu.mason.vanilla.WorldModel initPlaces - Number of neighborhoods: 6
+[INFO] edu.gmu.mason.vanilla.WorldModel initPlaces - Neighborhood #0
+[INFO] edu.gmu.mason.vanilla.WorldModel initPlaces - -------Buildings----------
+[INFO] edu.gmu.mason.vanilla.WorldModel initPlaces - Total number of buildings: 810
+[INFO] edu.gmu.mason.vanilla.WorldModel initPlaces - # of School Buildings needed: 1
+[INFO] edu.gmu.mason.vanilla.WorldModel initPlaces - # of Residential Buildings needed: 540
+[INFO] edu.gmu.mason.vanilla.WorldModel initPlaces - # of Commercial Buildings needed: 269
+[INFO] edu.gmu.mason.vanilla.WorldModel initPlaces - --------Units---------
+[INFO] edu.gmu.mason.vanilla.WorldModel initPlaces - # of Apartments Needed: 62
+[INFO] edu.gmu.mason.vanilla.WorldModel initPlaces - # of Schools Needed: 1
+[INFO] edu.gmu.mason.vanilla.WorldModel initPlaces - # of Pubs Needed: 1
+[INFO] edu.gmu.mason.vanilla.WorldModel initPlaces - # of Workplace Needed: 10
+[INFO] edu.gmu.mason.vanilla.WorldModel initPlaces - # of Restaurant Needed: 1
+[INFO] edu.gmu.mason.vanilla.WorldModel initPlaces - Neighborhood #1
+[INFO] edu.gmu.mason.vanilla.WorldModel initPlaces - -------Buildings----------
+[INFO] edu.gmu.mason.vanilla.WorldModel initPlaces - Total number of buildings: 730
+[INFO] edu.gmu.mason.vanilla.WorldModel initPlaces - # of School Buildings needed: 1
+[INFO] edu.gmu.mason.vanilla.WorldModel initPlaces - # of Residential Buildings needed: 486
+[INFO] edu.gmu.mason.vanilla.WorldModel initPlaces - # of Commercial Buildings needed: 243
+[INFO] edu.gmu.mason.vanilla.WorldModel initPlaces - --------Units---------
+[INFO] edu.gmu.mason.vanilla.WorldModel initPlaces - # of Apartments Needed: 62
+[INFO] edu.gmu.mason.vanilla.WorldModel initPlaces - # of Schools Needed: 1
+[INFO] edu.gmu.mason.vanilla.WorldModel initPlaces - # of Pubs Needed: 1
+[INFO] edu.gmu.mason.vanilla.WorldModel initPlaces - # of Workplace Needed: 10
+[INFO] edu.gmu.mason.vanilla.WorldModel initPlaces - # of Restaurant Needed: 1
+[INFO] edu.gmu.mason.vanilla.WorldModel initPlaces - Neighborhood #2
+[INFO] edu.gmu.mason.vanilla.WorldModel initPlaces - -------Buildings----------
+[INFO] edu.gmu.mason.vanilla.WorldModel initPlaces - Total number of buildings: 336
+[INFO] edu.gmu.mason.vanilla.WorldModel initPlaces - # of School Buildings needed: 1
+[INFO] edu.gmu.mason.vanilla.WorldModel initPlaces - # of Residential Buildings needed: 224
+[INFO] edu.gmu.mason.vanilla.WorldModel initPlaces - # of Commercial Buildings needed: 111
+[INFO] edu.gmu.mason.vanilla.WorldModel initPlaces - --------Units---------
+[INFO] edu.gmu.mason.vanilla.WorldModel initPlaces - # of Apartments Needed: 62
+[INFO] edu.gmu.mason.vanilla.WorldModel initPlaces - # of Schools Needed: 1
+[INFO] edu.gmu.mason.vanilla.WorldModel initPlaces - # of Pubs Needed: 1
+[INFO] edu.gmu.mason.vanilla.WorldModel initPlaces - # of Workplace Needed: 10
+[INFO] edu.gmu.mason.vanilla.WorldModel initPlaces - # of Restaurant Needed: 1
+[INFO] edu.gmu.mason.vanilla.WorldModel initPlaces - Neighborhood #3
+[INFO] edu.gmu.mason.vanilla.WorldModel initPlaces - -------Buildings----------
+[INFO] edu.gmu.mason.vanilla.WorldModel initPlaces - Total number of buildings: 275
+[INFO] edu.gmu.mason.vanilla.WorldModel initPlaces - # of School Buildings needed: 1
+[INFO] edu.gmu.mason.vanilla.WorldModel initPlaces - # of Residential Buildings needed: 183
+[INFO] edu.gmu.mason.vanilla.WorldModel initPlaces - # of Commercial Buildings needed: 91
+[INFO] edu.gmu.mason.vanilla.WorldModel initPlaces - --------Units---------
+[INFO] edu.gmu.mason.vanilla.WorldModel initPlaces - # of Apartments Needed: 62
+[INFO] edu.gmu.mason.vanilla.WorldModel initPlaces - # of Schools Needed: 1
+[INFO] edu.gmu.mason.vanilla.WorldModel initPlaces - # of Pubs Needed: 1
+[INFO] edu.gmu.mason.vanilla.WorldModel initPlaces - # of Workplace Needed: 10
+[INFO] edu.gmu.mason.vanilla.WorldModel initPlaces - # of Restaurant Needed: 1
+[INFO] edu.gmu.mason.vanilla.WorldModel initPlaces - Neighborhood #4
+[INFO] edu.gmu.mason.vanilla.WorldModel initPlaces - -------Buildings----------
+[INFO] edu.gmu.mason.vanilla.WorldModel initPlaces - Total number of buildings: 340
+[INFO] edu.gmu.mason.vanilla.WorldModel initPlaces - # of School Buildings needed: 1
+[INFO] edu.gmu.mason.vanilla.WorldModel initPlaces - # of Residential Buildings needed: 226
+[INFO] edu.gmu.mason.vanilla.WorldModel initPlaces - # of Commercial Buildings needed: 113
+[INFO] edu.gmu.mason.vanilla.WorldModel initPlaces - --------Units---------
+[INFO] edu.gmu.mason.vanilla.WorldModel initPlaces - # of Apartments Needed: 62
+[INFO] edu.gmu.mason.vanilla.WorldModel initPlaces - # of Schools Needed: 1
+[INFO] edu.gmu.mason.vanilla.WorldModel initPlaces - # of Pubs Needed: 1
+[INFO] edu.gmu.mason.vanilla.WorldModel initPlaces - # of Workplace Needed: 10
+[INFO] edu.gmu.mason.vanilla.WorldModel initPlaces - # of Restaurant Needed: 1
+[INFO] edu.gmu.mason.vanilla.WorldModel initPlaces - Neighborhood #5
+[INFO] edu.gmu.mason.vanilla.WorldModel initPlaces - -------Buildings----------
+[INFO] edu.gmu.mason.vanilla.WorldModel initPlaces - Total number of buildings: 283
+[INFO] edu.gmu.mason.vanilla.WorldModel initPlaces - # of School Buildings needed: 1
+[INFO] edu.gmu.mason.vanilla.WorldModel initPlaces - # of Residential Buildings needed: 188
+[INFO] edu.gmu.mason.vanilla.WorldModel initPlaces - # of Commercial Buildings needed: 94
+[INFO] edu.gmu.mason.vanilla.WorldModel initPlaces - --------Units---------
+[INFO] edu.gmu.mason.vanilla.WorldModel initPlaces - # of Apartments Needed: 68
+[INFO] edu.gmu.mason.vanilla.WorldModel initPlaces - # of Schools Needed: 1
+[INFO] edu.gmu.mason.vanilla.WorldModel initPlaces - # of Pubs Needed: 1
+[INFO] edu.gmu.mason.vanilla.WorldModel initPlaces - # of Workplace Needed: 11
+[INFO] edu.gmu.mason.vanilla.WorldModel initPlaces - # of Restaurant Needed: 1
+[INFO] edu.gmu.mason.vanilla.WorldModel addHumanAgents - Total number of agents: 250
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #0 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #1 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #2 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #3 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #4 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #5 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #6 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #7 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #8 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #9 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #10 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #11 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #12 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #13 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #14 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #15 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #16 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #17 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #18 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #19 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #20 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #21 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #22 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #23 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #24 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #25 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #26 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #27 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #28 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #29 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #30 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #31 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #32 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #33 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #34 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #35 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #36 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #37 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #38 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #39 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #40 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #41 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #42 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #43 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #44 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #45 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #46 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #47 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #48 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #49 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #50 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #51 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #52 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #53 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #54 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #55 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #56 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #57 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #58 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #59 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #60 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #61 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #62 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #63 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #64 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #65 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #66 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #67 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #68 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #69 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #70 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #71 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #72 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #73 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #74 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #75 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #76 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #77 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #78 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #79 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #80 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #81 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #82 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #83 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #84 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #85 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #86 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #87 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #88 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #89 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #90 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #91 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #92 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #93 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #94 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #95 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #96 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #97 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #98 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #99 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #100 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #101 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #102 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #103 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #104 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #105 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #106 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #107 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #108 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #109 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #110 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #111 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #112 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #113 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #114 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #115 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #116 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #117 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #118 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #119 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #120 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #121 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #122 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #123 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #124 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #125 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #126 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #127 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #128 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #129 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #130 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #131 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #132 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #133 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #134 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #135 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #136 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #137 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #138 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #139 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #140 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #141 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #142 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #143 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #144 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #145 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #146 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #147 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #148 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #149 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #150 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #151 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #152 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #153 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #154 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #155 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #156 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #157 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #158 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #159 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #160 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #161 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #162 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #163 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #164 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #165 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #166 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #167 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #168 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #169 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #170 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #171 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #172 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #173 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #174 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #175 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #176 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #177 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #178 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #179 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #180 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #181 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #182 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #183 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #184 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #185 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #186 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #187 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #188 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #189 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #190 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #191 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #192 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #193 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #194 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #195 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #196 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #197 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #198 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #199 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #200 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #201 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #202 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #203 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #204 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #205 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #206 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #207 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #208 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #209 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #210 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #211 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #212 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #213 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #214 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #215 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #216 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #217 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #218 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #219 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #220 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #221 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #222 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #223 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #224 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #225 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #226 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #227 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #228 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #229 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #230 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #231 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #232 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #233 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #234 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #235 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #236 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #237 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #238 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #239 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #240 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #241 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #242 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #243 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #244 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #245 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #246 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #247 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #248 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addAgent - Agent #249 added.
+[INFO] edu.gmu.mason.vanilla.WorldModel addHumanAgents - Human agents are added.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Agent population create/initialize time: 4979 ms.
+[INFO] edu.gmu.mason.vanilla.WorldModel nightlyRoutine - Night routine:Day #1 周一 @ 00:00
+[INFO] edu.gmu.mason.vanilla.WorldModel eveningRoutine - Evening routine:Day #1 周一 @ 19:00
+[INFO] edu.gmu.mason.vanilla.WorldModel nightlyRoutine - Night routine:Day #2 周二 @ 00:00
+[INFO] edu.gmu.mason.vanilla.WorldModel eveningRoutine - Evening routine:Day #2 周二 @ 19:00
+[INFO] edu.gmu.mason.vanilla.WorldModel nightlyRoutine - Night routine:Day #3 周三 @ 00:00
+[INFO] edu.gmu.mason.vanilla.WorldModel eveningRoutine - Evening routine:Day #3 周三 @ 19:00
+[INFO] edu.gmu.mason.vanilla.WorldModel nightlyRoutine - Night routine:Day #4 周四 @ 00:00
+[INFO] edu.gmu.mason.vanilla.WorldModel eveningRoutine - Evening routine:Day #4 周四 @ 19:00
+[INFO] edu.gmu.mason.vanilla.WorldModel nightlyRoutine - Night routine:Day #5 周五 @ 00:00
+[INFO] edu.gmu.mason.vanilla.Person exitTheWorld - Agent #208 exits: Abandoned - at time:2019-07-05T00:00:00.000
+[INFO] edu.gmu.mason.vanilla.Person exitTheWorld - Agent #147 exits: Abandoned - at time:2019-07-05T00:00:00.000
+[INFO] edu.gmu.mason.vanilla.Person exitTheWorld - Agent #209 exits: Abandoned - at time:2019-07-05T00:00:00.000
+[INFO] edu.gmu.mason.vanilla.Person exitTheWorld - Agent #183 exits: Abandoned - at time:2019-07-05T00:00:00.000
+[INFO] edu.gmu.mason.vanilla.Person exitTheWorld - Agent #90 exits: Abandoned - at time:2019-07-05T00:10:00.000
+[INFO] edu.gmu.mason.vanilla.Person exitTheWorld - Agent #223 exits: Abandoned - at time:2019-07-05T04:55:00.000
+[INFO] edu.gmu.mason.vanilla.Person exitTheWorld - Agent #217 exits: Abandoned - at time:2019-07-05T05:05:00.000
+[INFO] edu.gmu.mason.vanilla.Person exitTheWorld - Agent #219 exits: Abandoned - at time:2019-07-05T05:10:00.000
+[INFO] edu.gmu.mason.vanilla.Person exitTheWorld - Agent #218 exits: Abandoned - at time:2019-07-05T05:45:00.000
+[INFO] edu.gmu.mason.vanilla.Person exitTheWorld - Agent #146 exits: Abandoned - at time:2019-07-05T06:00:00.000
+[INFO] edu.gmu.mason.vanilla.Person exitTheWorld - Agent #233 exits: Abandoned - at time:2019-07-05T06:05:00.000
+[INFO] edu.gmu.mason.vanilla.Person exitTheWorld - Agent #215 exits: Abandoned - at time:2019-07-05T06:05:00.000
+[INFO] edu.gmu.mason.vanilla.Person exitTheWorld - Agent #83 exits: Abandoned - at time:2019-07-05T06:05:00.000
+[INFO] edu.gmu.mason.vanilla.Person exitTheWorld - Agent #44 exits: Abandoned - at time:2019-07-05T06:05:00.000
+[INFO] edu.gmu.mason.vanilla.Person exitTheWorld - Agent #234 exits: Abandoned - at time:2019-07-05T06:10:00.000
+[INFO] edu.gmu.mason.vanilla.Person exitTheWorld - Agent #216 exits: Abandoned - at time:2019-07-05T06:15:00.000
+[INFO] edu.gmu.mason.vanilla.Person exitTheWorld - Agent #145 exits: Abandoned - at time:2019-07-05T06:20:00.000
+[INFO] edu.gmu.mason.vanilla.Person exitTheWorld - Agent #248 exits: Abandoned - at time:2019-07-05T06:40:00.000
+[INFO] edu.gmu.mason.vanilla.Person exitTheWorld - Agent #180 exits: Abandoned - at time:2019-07-05T06:40:00.000
+[INFO] edu.gmu.mason.vanilla.Person exitTheWorld - Agent #205 exits: Abandoned - at time:2019-07-05T06:40:00.000
+[INFO] edu.gmu.mason.vanilla.Person exitTheWorld - Agent #214 exits: Abandoned - at time:2019-07-05T06:45:00.000
+[INFO] edu.gmu.mason.vanilla.Person exitTheWorld - Agent #46 exits: Abandoned - at time:2019-07-05T06:45:00.000
+[INFO] edu.gmu.mason.vanilla.Person exitTheWorld - Agent #220 exits: Abandoned - at time:2019-07-05T06:45:00.000
+[INFO] edu.gmu.mason.vanilla.Person exitTheWorld - Agent #177 exits: Abandoned - at time:2019-07-05T07:10:00.000
+[INFO] edu.gmu.mason.vanilla.Person exitTheWorld - Agent #229 exits: Abandoned - at time:2019-07-05T07:15:00.000
+[INFO] edu.gmu.mason.vanilla.Person exitTheWorld - Agent #166 exits: Abandoned - at time:2019-07-05T07:15:00.000
+[INFO] edu.gmu.mason.vanilla.Person exitTheWorld - Agent #125 exits: Abandoned - at time:2019-07-05T07:20:00.000
+[INFO] edu.gmu.mason.vanilla.Person exitTheWorld - Agent #26 exits: Abandoned - at time:2019-07-05T07:20:00.000
+[INFO] edu.gmu.mason.vanilla.Person exitTheWorld - Agent #169 exits: Abandoned - at time:2019-07-05T07:20:00.000
+[INFO] edu.gmu.mason.vanilla.Person exitTheWorld - Agent #227 exits: Abandoned - at time:2019-07-05T07:20:00.000
+[INFO] edu.gmu.mason.vanilla.Person exitTheWorld - Agent #104 exits: Abandoned - at time:2019-07-05T07:25:00.000
+[INFO] edu.gmu.mason.vanilla.Person exitTheWorld - Agent #144 exits: Abandoned - at time:2019-07-05T07:30:00.000
+[INFO] edu.gmu.mason.vanilla.Person exitTheWorld - Agent #238 exits: Abandoned - at time:2019-07-05T07:35:00.000
+[INFO] edu.gmu.mason.vanilla.Person exitTheWorld - Agent #22 exits: Abandoned - at time:2019-07-05T07:40:00.000
+[INFO] edu.gmu.mason.vanilla.Person exitTheWorld - Agent #230 exits: Abandoned - at time:2019-07-05T07:45:00.000
+[INFO] edu.gmu.mason.vanilla.Person exitTheWorld - Agent #212 exits: Abandoned - at time:2019-07-05T07:50:00.000
+[INFO] edu.gmu.mason.vanilla.Person exitTheWorld - Agent #239 exits: Abandoned - at time:2019-07-05T07:50:00.000
+[INFO] edu.gmu.mason.vanilla.Person exitTheWorld - Agent #138 exits: Abandoned - at time:2019-07-05T07:50:00.000
+[INFO] edu.gmu.mason.vanilla.Person exitTheWorld - Agent #222 exits: Abandoned - at time:2019-07-05T07:55:00.000
+[INFO] edu.gmu.mason.vanilla.Person exitTheWorld - Agent #228 exits: Abandoned - at time:2019-07-05T07:55:00.000
+[INFO] edu.gmu.mason.vanilla.Person exitTheWorld - Agent #167 exits: Abandoned - at time:2019-07-05T08:00:00.000
+[INFO] edu.gmu.mason.vanilla.Person exitTheWorld - Agent #232 exits: Abandoned - at time:2019-07-05T08:05:00.000
+[INFO] edu.gmu.mason.vanilla.Person exitTheWorld - Agent #65 exits: Abandoned - at time:2019-07-05T08:30:00.000
+[INFO] edu.gmu.mason.vanilla.Person exitTheWorld - Agent #237 exits: Abandoned - at time:2019-07-05T08:50:00.000
+[INFO] edu.gmu.mason.vanilla.Person exitTheWorld - Agent #231 exits: Abandoned - at time:2019-07-05T09:10:00.000
+[INFO] edu.gmu.mason.vanilla.WorldModel eveningRoutine - Evening routine:Day #5 周五 @ 19:00
+[INFO] edu.gmu.mason.vanilla.WorldModel nightlyRoutine - Night routine:Day #6 周六 @ 00:00
+[INFO] edu.gmu.mason.vanilla.WorldModel eveningRoutine - Evening routine:Day #6 周六 @ 19:00
+[INFO] edu.gmu.mason.vanilla.WorldModel nightlyRoutine - Night routine:Day #7 周日 @ 00:00
+[INFO] edu.gmu.mason.vanilla.WorldModel eveningRoutine - Evening routine:Day #7 周日 @ 19:00
+[INFO] edu.gmu.mason.vanilla.WorldModel nightlyRoutine - Night routine:Day #8 周一 @ 00:00
+[INFO] edu.gmu.mason.vanilla.WorldModel eveningRoutine - Evening routine:Day #8 周一 @ 19:00
+[INFO] edu.gmu.mason.vanilla.WorldModel nightlyRoutine - Night routine:Day #9 周二 @ 00:00
+[INFO] edu.gmu.mason.vanilla.WorldModel eveningRoutine - Evening routine:Day #9 周二 @ 19:00
+[INFO] edu.gmu.mason.vanilla.WorldModel nightlyRoutine - Night routine:Day #10 周三 @ 00:00
+[INFO] edu.gmu.mason.vanilla.WorldModel eveningRoutine - Evening routine:Day #10 周三 @ 19:00
+[INFO] edu.gmu.mason.vanilla.WorldModel nightlyRoutine - Night routine:Day #11 周四 @ 00:00
+[INFO] edu.gmu.mason.vanilla.WorldModel eveningRoutine - Evening routine:Day #11 周四 @ 19:00
+[INFO] edu.gmu.mason.vanilla.WorldModel nightlyRoutine - Night routine:Day #12 周五 @ 00:00
+[INFO] edu.gmu.mason.vanilla.WorldModel eveningRoutine - Evening routine:Day #12 周五 @ 19:00
+[INFO] edu.gmu.mason.vanilla.WorldModel nightlyRoutine - Night routine:Day #13 周六 @ 00:00
+[INFO] edu.gmu.mason.vanilla.WorldModel eveningRoutine - Evening routine:Day #13 周六 @ 19:00
+[INFO] edu.gmu.mason.vanilla.WorldModel nightlyRoutine - Night routine:Day #14 周日 @ 00:00
+[INFO] edu.gmu.mason.vanilla.WorldModel finish - Social network graph saved.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20417 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20419 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20421 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20423 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20424 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20427 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20429 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20430 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20432 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20434 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20436 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20438 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20440 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20442 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20444 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20446 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20448 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20451 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20452 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20454 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20456 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20458 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20461 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20462 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20464 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20465 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20467 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20469 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20470 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20472 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20473 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20475 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20477 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20478 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20480 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20481 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20483 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20485 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20486 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20488 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20489 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20491 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20493 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20494 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20496 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20497 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20499 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20501 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20502 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20504 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20505 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20507 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20508 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20510 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20512 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20513 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20515 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20517 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20518 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20520 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20521 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20523 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20524 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20525 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20526 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20527 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20528 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20529 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20530 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20531 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20532 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20533 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20534 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20535 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20536 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20537 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20538 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20539 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20540 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20541 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20542 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20543 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20544 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20545 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20546 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20547 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20548 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20549 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20550 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20551 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20552 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20553 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20554 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20555 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20556 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20557 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20558 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20559 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20560 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20561 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20562 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20563 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20564 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20565 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20567 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20569 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20570 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20571 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20573 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20574 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20576 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20577 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20579 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20581 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20582 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20583 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20584 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20585 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20586 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20587 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20588 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20589 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20590 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20591 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20592 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20593 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20594 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20595 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20597 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20598 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20599 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20600 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20601 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20602 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20603 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20604 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20605 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20606 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20607 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20608 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20609 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20610 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20611 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20612 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20613 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20614 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20615 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20616 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20617 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20618 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20619 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20620 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20621 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20622 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20623 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20624 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20626 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20627 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20629 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20631 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20633 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20635 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20636 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20639 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20640 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20642 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20645 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20647 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20649 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20651 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20653 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20654 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20656 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20658 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20659 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20662 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20663 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20665 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20666 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20671 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20673 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20675 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20677 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20679 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20680 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20682 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20684 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20686 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20688 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20690 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20693 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20695 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20698 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20700 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20701 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20703 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20705 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20707 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20709 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20711 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20713 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20715 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20717 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20719 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20720 ms.
+[INFO] edu.gmu.mason.vanilla.utils.DateTimeUtil logTimeSpent - Total simulation time: 20723 ms.

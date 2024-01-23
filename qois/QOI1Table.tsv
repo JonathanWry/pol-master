@@ -1,0 +1,15 @@
+Timestep	VariableName	EntityIdx	Value	Notes
+0	avgNetworkDegree		0.144	
+288	avgNetworkDegree		0.704	
+576	avgNetworkDegree		1.104	
+864	avgNetworkDegree		1.54	
+1152	avgNetworkDegree		1.9308943089430894	
+1440	avgNetworkDegree		2.209756097560976	
+1728	avgNetworkDegree		2.902439024390244	
+2016	avgNetworkDegree		3.5073170731707317	
+2304	avgNetworkDegree		3.6341463414634148	
+2592	avgNetworkDegree		3.726829268292683	
+2880	avgNetworkDegree		3.946341463414634	
+3168	avgNetworkDegree		4.087804878048781	
+3456	avgNetworkDegree		4.458536585365854	
+3744	avgNetworkDegree		5.15609756097561	
